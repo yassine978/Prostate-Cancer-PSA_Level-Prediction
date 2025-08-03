@@ -95,5 +95,3 @@ This project focuses on building predictive models to estimate **PSA levels** (l
 - Learned trade-offs between interpretability and performance
 ---
 
-## 📂 Project Structure
-
